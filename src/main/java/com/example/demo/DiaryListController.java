@@ -12,7 +12,7 @@ import java.util.List;
 @RequestMapping("/")
 public class DiaryListController {
 
-    private static final String user = "jongmin";
+    private static final String user = "jdko";
     private DiaryListRepository diaryListRepository;
 
     @Autowired
